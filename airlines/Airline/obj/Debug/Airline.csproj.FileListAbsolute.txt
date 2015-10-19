@@ -1,0 +1,6 @@
+c:\users\f1\documents\visual studio 2013\Projects\Airline\Airline\bin\Debug\Airline.exe.config
+c:\users\f1\documents\visual studio 2013\Projects\Airline\Airline\obj\Debug\Airline.csprojResolveAssemblyReference.cache
+c:\users\f1\documents\visual studio 2013\Projects\Airline\Airline\bin\Debug\Airline.exe
+c:\users\f1\documents\visual studio 2013\Projects\Airline\Airline\bin\Debug\Airline.pdb
+c:\users\f1\documents\visual studio 2013\Projects\Airline\Airline\obj\Debug\Airline.exe
+c:\users\f1\documents\visual studio 2013\Projects\Airline\Airline\obj\Debug\Airline.pdb
